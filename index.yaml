@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-22T14:18:21.515711516Z"
+    description: A Helm chart for Kubernetes
+    digest: 5c2a3043f7828dc2032fe4b6dc9c6a821e4f18aae0c41905f004ea9923c6f664
+    name: test
+    type: application
+    urls:
+    - https://github.com/attila1020/helm-charts/releases/download/test-0.1.0/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-22T14:18:21.515721705Z"
